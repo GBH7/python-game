@@ -1,2 +1,4 @@
 # python-game
-공피하기 게임
+* pygame
+
+## 구현한 기능
